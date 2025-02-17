@@ -1,0 +1,14 @@
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\bin\Debug\net9.0\Lesson4Perezdacha.exe
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\bin\Debug\net9.0\Lesson4Perezdacha.deps.json
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\bin\Debug\net9.0\Lesson4Perezdacha.runtimeconfig.json
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\bin\Debug\net9.0\Lesson4Perezdacha.dll
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\bin\Debug\net9.0\Lesson4Perezdacha.pdb
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\Lesson4Perezdacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\Lesson4Perezdacha.AssemblyInfoInputs.cache
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\Lesson4Perezdacha.AssemblyInfo.cs
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\Lesson4Perezdacha.csproj.CoreCompileInputs.cache
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\Lesson4Perezdacha.dll
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\refint\Lesson4Perezdacha.dll
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\Lesson4Perezdacha.pdb
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\Lesson4Perezdacha.genruntimeconfig.cache
+D:\csharp\Lesson4Perezdacha\Lesson4Perezdacha\obj\Debug\net9.0\ref\Lesson4Perezdacha.dll

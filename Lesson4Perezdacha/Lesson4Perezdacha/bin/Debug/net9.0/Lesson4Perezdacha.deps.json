@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lesson4Perezdacha/1.0.0": {
+        "runtime": {
+          "Lesson4Perezdacha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson4Perezdacha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
